@@ -26,7 +26,7 @@ class Calculator:
     def sub(self,int1,int2):
         self.solution = sub(int1,int2)
         return self.solution
-    
+
     def mult(self,int1,int2):
         self.solution = mult(int1,int2)
         return self.solution

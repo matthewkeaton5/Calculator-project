@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0563e788-d6eb-4c7e-a4b1-af5cadc833d6" name="Default Changelist" comment="" />
+    <list default="true" id="0563e788-d6eb-4c7e-a4b1-af5cadc833d6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/DockerFile" beforeDir="false" afterPath="$PROJECT_DIR$/DockerFile" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +23,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DockerFile">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -46,6 +52,7 @@
       <list>
         <option value="$PROJECT_DIR$/Calculator.py" />
         <option value="$PROJECT_DIR$/CSV.py" />
+        <option value="$PROJECT_DIR$/DockerFile" />
       </list>
     </option>
   </component>
@@ -81,6 +88,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Calculator Individual Homework\Calculator-project\Files" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -147,7 +159,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DockerFile">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
